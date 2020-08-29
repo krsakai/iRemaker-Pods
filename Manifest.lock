@@ -75,6 +75,7 @@ PODS:
   - nanopb/encode (1.30905.0)
   - PKHUD (5.3.0)
   - PromisesObjC (1.2.9)
+  - YMTGetDeviceName (4.1)
 
 DEPENDENCIES:
   - AWSCognito
@@ -82,6 +83,7 @@ DEPENDENCIES:
   - Firebase/Analytics
   - Firebase/Storage
   - PKHUD (~> 5.0)
+  - YMTGetDeviceName
 
 SPEC REPOS:
   trunk:
@@ -101,6 +103,7 @@ SPEC REPOS:
     - nanopb
     - PKHUD
     - PromisesObjC
+    - YMTGetDeviceName
 
 SPEC CHECKSUMS:
   AWSCognito: 867c0ce9d2f817a4f3fd1bd62fc131fecf5a7655
@@ -119,7 +122,8 @@ SPEC CHECKSUMS:
   nanopb: c43f40fadfe79e8b8db116583945847910cbabc9
   PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
   PromisesObjC: b48e0338dbbac2207e611750777895f7a5811b75
+  YMTGetDeviceName: 67f513cbb6484910dc004f32b8db36d080b72cc1
 
-PODFILE CHECKSUM: 2896b445a19697ae44acb360b0ea741185d8d601
+PODFILE CHECKSUM: 13aef65c6b82b822906c8039f0ba1324b9960248
 
 COCOAPODS: 1.9.1
