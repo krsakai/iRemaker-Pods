@@ -1,9 +1,4 @@
 PODS:
-  - AWSCognito (2.15.0):
-    - AWSCore (= 2.15.0)
-  - AWSCore (2.15.0)
-  - AWSS3 (2.15.0):
-    - AWSCore (= 2.15.0)
   - Firebase/Analytics (6.28.1):
     - Firebase/Core
   - Firebase/Core (6.28.1):
@@ -78,8 +73,6 @@ PODS:
   - YMTGetDeviceName (4.1)
 
 DEPENDENCIES:
-  - AWSCognito
-  - AWSS3
   - Firebase/Analytics
   - Firebase/Storage
   - PKHUD (~> 5.0)
@@ -87,9 +80,6 @@ DEPENDENCIES:
 
 SPEC REPOS:
   trunk:
-    - AWSCognito
-    - AWSCore
-    - AWSS3
     - Firebase
     - FirebaseAnalytics
     - FirebaseCore
@@ -106,9 +96,6 @@ SPEC REPOS:
     - YMTGetDeviceName
 
 SPEC CHECKSUMS:
-  AWSCognito: 867c0ce9d2f817a4f3fd1bd62fc131fecf5a7655
-  AWSCore: b732e43f2afaef25c3a7dd9408b8c594213397bd
-  AWSS3: e54ce8e29744663f0e5f3e90d610880974fc59fa
   Firebase: ed042590caa0029392257529a8003c25ee82bc18
   FirebaseAnalytics: 5fa308e1b13f838d0f6dc74719ac2a72e8c5afc4
   FirebaseCore: 687b8e6a0a4337b898a6326d68254c2f80c143af
@@ -124,6 +111,6 @@ SPEC CHECKSUMS:
   PromisesObjC: b48e0338dbbac2207e611750777895f7a5811b75
   YMTGetDeviceName: 67f513cbb6484910dc004f32b8db36d080b72cc1
 
-PODFILE CHECKSUM: 13aef65c6b82b822906c8039f0ba1324b9960248
+PODFILE CHECKSUM: 9fba7eddf8d1d2075cfde77e64533a4a02801cfa
 
-COCOAPODS: 1.9.1
+COCOAPODS: 1.10.0
